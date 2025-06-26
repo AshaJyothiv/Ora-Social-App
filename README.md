@@ -166,7 +166,7 @@ npm start
 
 ## 🙌 Author
 
-**Sekar D** – MERN Stack Intern at SmartBridge  
-📫 [sekardurai142003@gmail.com](mailto:sekardurai142003@gmail.com)
+**Veluvarthi Venkata Raja AshaJyothi** – MERN Stack Intern at SmartBridge  
+📫 [ashajyo.veluvarthi@gmail.com](mailto:ashajyo.veluvarthi@gmail.com)
 
 ---
